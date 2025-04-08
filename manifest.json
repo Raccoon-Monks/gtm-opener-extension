@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Gerenciador de GTMs",
+  "version": "1.0",
+  "description": "Extensão para facilitar o acesso aos Google Tag Managers encontrados na página.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/gtm.png",
+      "48": "/images/gtm.png",
+      "128": "/images/gtm.png"
+    }
+  },
+  "icons": {
+    "16": "/images/gtm.png",
+    "48": "/images/gtm.png",
+    "128": "/images/gtm.png"
+  }
+}

@@ -1,122 +1,147 @@
 {
   "GTM-5C65BFX": {
     "description": "MDS - CL (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/60237326/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/60237326/workspaces/",
+    "authuser": "8"
   },
   "GTM-5DDXLJG": {
     "description": "SHP - BR (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/89777312/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/89777312/workspaces/",
+    "authuser": "8"
   },
   "GTM-5PTD4LF": {
     "description": "CNT - BR (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/59690514/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/59690514/workspaces/",
+    "authuser": "8"
   },
   "GTM-GC8SQM8": {
     "description": "ELX - CO (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/54363643/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/54363643/workspaces/",
+    "authuser": "8"
   },
   "GTM-K9VLVVH": {
     "description": "www.totem.shopclub.cl - Shopclub Sub Account",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/115890789/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/115890789/workspaces/",
+    "authuser": "8"
   },
   "GTM-KBVCJPB": {
     "description": "ELX - EC (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/56292138/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/56292138/workspaces/",
+    "authuser": "8"
   },
   "GTM-KFFVLR52": {
     "description": "D2C - 3RD PARTY TOOLS",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/182065940/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/182065940/workspaces/",
+    "authuser": "8"
   },
   "GTM-M6KXPXT": {
     "description": "ELX - PE (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/55804116/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/55804116/workspaces/",
+    "authuser": "8"
   },
   "GTM-MN2NK3J": {
     "description": "SHP - CL (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/104596251/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/104596251/workspaces/",
+    "authuser": "8"
   },
   "GTM-MWKMXJX": {
     "description": "Cuida ELX BR",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/6001966980/containers/32369369/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/6001966980/containers/32369369/workspaces/",
+    "authuser": "8"
   },
   "GTM-MZ27WF9": {
     "description": "SHP - PE (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/113941643/workspaces/"
-  },
-  "GTM-N5ZZT3": {
-    "description": "aaaa",
-    "url": "dddddddddd"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/113941643/workspaces/",
+    "authuser": "8"
   },
   "GTM-N6X9DBL": {
     "description": "Mídias",
-    "url": "https://tagmanager.google.com/#/container/accounts/92421/containers/49267163/workspaces"
+    "url": "https://tagmanager.google.com/?authuser=0#/container/accounts/92421/containers/49267163/workspaces",
+    "authuser": "0"
   },
   "GTM-NC5FD4W": {
     "description": "SHP - CO (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/12329388/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/12329388/workspaces/",
+    "authuser": "8"
   },
   "GTM-NDQ3K6L": {
     "description": "Fast Store",
-    "url": "https://tagmanager.google.com/?authuser=4#/container/accounts/87596/containers/103982250/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=4#/container/accounts/87596/containers/103982250/workspaces/",
+    "authuser": "4"
   },
   "GTM-NM632T2": {
     "description": "FEN - CL (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/60230276/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/60230276/workspaces/",
+    "authuser": "8"
   },
   "GTM-NQL62X5T": {
     "description": "FRI - NoLA (DECO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/205897574/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/205897574/workspaces/",
+    "authuser": "8"
   },
   "GTM-NSR644WF": {
     "description": "D2C - ANALYTICS CORE",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/182069532/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/182069532/workspaces/",
+    "authuser": "8"
   },
   "GTM-P47ZFQ6": {
     "description": "ELUX - AR (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/56206694/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/56206694/workspaces/",
+    "authuser": "8"
   },
   "GTM-P9S5HDJ": {
     "description": "frigidaire.com.pr",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/12294063/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/12294063/workspaces/",
+    "authuser": "8"
   },
   "GTM-PM7L9N5": {
     "description": "GA4 - LATAM",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/95298033/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/95298033/workspaces/",
+    "authuser": "8"
   },
   "GTM-TNVJ9D2": {
     "description": "GA4",
-    "url": "https://tagmanager.google.com/#/container/accounts/92421/containers/94271348/workspaces"
+    "url": "https://tagmanager.google.com/?authuser=0#/container/accounts/92421/containers/94271348/workspaces",
+    "authuser": "0"
   },
   "GTM-TTWJH236": {
     "description": "Floodlights - LATAM",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/170706287/workspaces"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/170706287/workspaces",
+    "authuser": "8"
   },
   "GTM-W8CWR2X": {
     "description": "SML - CL (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/90740222/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/90740222/workspaces/",
+    "authuser": "8"
   },
   "GTM-WK6426K": {
     "description": "frigidaire.com.mx",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/38139884/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/38139884/workspaces/",
+    "authuser": "8"
   },
   "GTM-WRKNVS": {
     "description": "Pessoal",
-    "url": "https://tagmanager.google.com/#/container/accounts/313976082/containers/2289496/"
+    "url": "https://tagmanager.google.com/?authuser=0#/container/accounts/313976082/containers/2289496/",
+    "authuser": "0"
   },
   "GTM-WRW7M9H": {
     "description": "GAFA - AR (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/60241796/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/60241796/workspaces/",
+    "authuser": "8"
   },
   "GTM-WVRBBK9": {
     "description": "ELX - CL (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/56079792/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/56079792/workspaces/",
+    "authuser": "8"
   },
   "GTM-WWHQZGHD": {
-    "description": "GA4 - Natura & Co  Reports BR e LATAM",
-    "url": "https://tagmanager.google.com/?authuser=1#/container/accounts/92421/containers/"
+    "description": "GA4 - Natura & Co - Reports BR e LATAM",
+    "url": "https://tagmanager.google.com/?authuser=1#/container/accounts/92421/containers/210157471/workspaces/",
+    "authuser": "1"
   },
   "GTM-WZGCJK9": {
     "description": "ELX - BR (VTEX IO)",
-    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/59694571/workspaces/"
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/59694571/workspaces/",
+    "authuser": "8"
   }
 }

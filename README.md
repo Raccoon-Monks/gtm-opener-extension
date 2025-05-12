@@ -36,6 +36,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 If you encounter any issues or have questions, please open an issue in this repository.
 
 ## backup / restore
-Backup: `await chrome.local.get()` -> backup.json
+Backup: `await chrome.storage.local.get()` -> backup.json
 
-Restore: `await chrome.local.set(data)` <- data should be the content of backup.json
+Restore: `await chrome.storage.local.set(data)` <- data should be the content of backup.json

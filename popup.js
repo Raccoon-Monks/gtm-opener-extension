@@ -87,7 +87,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
             // Add event listeners for description input changes
             document.querySelectorAll('.description-input').forEach(input =>
               input.addEventListener('change', e => {
-                const containerId = e.target.dataset.gtmid
+                const containerId = e.target.dataset.containerid
                 const description = e.target.value
                 const url = document.querySelector(`.url-input[data-containerid="${containerId}"]`).value
                 const authuser = document.querySelector(`.authuser-input[data-containerid="${containerId}"]`).value
@@ -98,14 +98,14 @@ chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
             // Add event listeners for URL input changes
             document.querySelectorAll('.url-input').forEach(input =>
               input.addEventListener('change', e => {
-                const containerId = e.target.dataset.gtmid
+                const containerId = e.target.dataset.containerid
                 const description = document.querySelector(
                   `.description-input[data-containerid="${containerId}"]`
                 ).value
                 const url = new URL(e.target.value) // quebra se url inválida
                 const authuser =
                   url.searchParams.get('authuser') ||
-                  document.querySelector('.authuser-input[data-containerid="${gtmId}"]').value ||
+                  document.querySelector(`.authuser-input[data-containerid="${containerId}"]`).value ||
                   '0'
                 chrome.storage.local.set({ [containerId]: { url: url.href, description, authuser } })
               })
@@ -114,7 +114,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
             // Add event listeners for authuser changes
             document.querySelectorAll('.authuser-input').forEach(input =>
               input.addEventListener('change', e => {
-                const containerId = e.target.dataset.gtmid
+                const containerId = e.target.dataset.containerid
                 const description = document.querySelector(
                   `.description-input[data-containerid="${containerId}"]`
                 ).value
@@ -127,7 +127,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
             // Add event listeners for open buttons
             document.querySelectorAll('button[data-containerid]').forEach(button =>
               button.addEventListener('click', e => {
-                const containerId = e.target.dataset.gtmid
+                const containerId = e.target.dataset.containerid
                 const authuser = document.querySelector(`.authuser-input[data-containerid="${containerId}"]`).value
                 const url = new URL(document.querySelector(`.url-input[data-containerid="${containerId}"]`).value)
                 url.searchParams.set('authuser', authuser)

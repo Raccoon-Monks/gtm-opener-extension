@@ -1,4 +1,109 @@
 {
+  "G-0W6DM1HXWY": {
+    "authuser": "0",
+    "description": "não tenho acesso",
+    "url": ""
+  },
+  "G-7B5F8LCQTR": {
+    "authuser": "0",
+    "description": "Lourenco - GA4",
+    "url": "https://analytics.google.com/analytics/web/?hl=en-US#/p435402027/reports/intelligenthome"
+  },
+  "G-9EQWGEZ7NQ": {
+    "authuser": "8",
+    "description": "ELX AR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p337239832/reports/intelligenthome"
+  },
+  "G-BLQM2FZ7V8": {
+    "authuser": "8",
+    "description": "SHP BR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325691014/reports/intelligenthome"
+  },
+  "G-EES3W0DLF0": {
+    "authuser": "8",
+    "description": "SOM CH",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p337943359/reports/intelligenthome"
+  },
+  "G-F5Q7STL6SF": {
+    "authuser": "8",
+    "description": "ELX BR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/a233003238p325707808/admin/streams/table/4156050639"
+  },
+  "G-FF4RV1K93L": {
+    "authuser": "8",
+    "description": "ELX CO",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325670753/reports/intelligenthome"
+  },
+  "G-HM1P8FDK8F": {
+    "authuser": "8",
+    "description": "ELX EC",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325672175/reports/intelligenthome"
+  },
+  "G-METRRXTEX6": {
+    "authuser": "8",
+    "description": "ELX CH",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325677113/reports/intelligenthome"
+  },
+  "G-MGV13ZQ0D1": {
+    "authuser": "8",
+    "description": "FRI MX",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325706471/reports/intelligenthome"
+  },
+  "G-N33HB7Q3KZ": {
+    "authuser": "8",
+    "description": "FEN CH",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325670353/reports/intelligenthome"
+  },
+  "G-NGKCV046WB": {
+    "authuser": "8",
+    "description": "CNT BR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325709115/reports/intelligenthome"
+  },
+  "G-NQWJFYLELN": {
+    "authuser": "8",
+    "description": "ELX PE",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325703542/reports/intelligenthome"
+  },
+  "G-SHFVCV8R8E": {
+    "authuser": "8",
+    "description": "SHP CO",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325684486/reports/intelligenthome"
+  },
+  "G-WFFLCLCHKP": {
+    "authuser": "8",
+    "description": "MDS CH",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325674293/reports/intelligenthome"
+  },
+  "G-WJCRFV85CN": {
+    "authuser": "8",
+    "description": "SHP CH",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325694845/reports/intelligenthome"
+  },
+  "G-WWXPQ5MBCY": {
+    "authuser": "8",
+    "description": "SHP AR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p323859415/reports/intelligenthome"
+  },
+  "G-WZX2HX0MP5": {
+    "authuser": "8",
+    "description": "FRI PR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325685102/reports/intelligenthome"
+  },
+  "G-XJPETPZ6NP": {
+    "authuser": "8",
+    "description": "SHP PE",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p325681441/reports/intelligenthome"
+  },
+  "G-YXWEBVEQ0V": {
+    "authuser": "0",
+    "description": "não tenho acesso",
+    "url": ""
+  },
+  "G-ZNJJCTVTQP": {
+    "authuser": "8",
+    "description": "GAF AR",
+    "url": "https://analytics.google.com/analytics/web/?authuser=8&hl=en-US#/p320898753/reports/intelligenthome"
+  },
   "GTM-5C65BFX": {
     "authuser": "8",
     "description": "MDS - CL (VTEX IO)",
@@ -98,6 +203,11 @@
     "authuser": "8",
     "description": "GA4 - LATAM",
     "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/4149884045/containers/95298033/workspaces/"
+  },
+  "GTM-TG8WMXT": {
+    "authuser": "8",
+    "description": "shopclub.com.ar - vtex IO",
+    "url": "https://tagmanager.google.com/?authuser=8#/container/accounts/144592/containers/112662511/workspaces/"
   },
   "GTM-TNVJ9D2": {
     "authuser": "0",
